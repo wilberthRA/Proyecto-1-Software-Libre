@@ -1,4 +1,4 @@
-[volver](../README.md)
+[< volver](../../README.md)
 # Use the Filesystem Class to Read a Directory.
 1. lo primero que hacemos es borrar la referencia en nuestros posts.
 2. despues de eso vamos a las rutas y comentamos todo y se le colocan estos cambios ```$post = Post::find($slug);
@@ -22,3 +22,5 @@ title: My Fourth Post
 excerpt: Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 date: 2021-05-21
 ---```` al comienso del codigo(aun sin mucha explicacion).
+
+[< volver](../../README.md)
