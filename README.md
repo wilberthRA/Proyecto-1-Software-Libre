@@ -13,3 +13,4 @@
     * [Collection Sorting and Caching Refresher](/LFTS/The%20Basics/Collection%20Sorting%20and%20Caching%20Refresher.md)
 2. Blade
     * [Blade: The Absolute Basics](/LFTS/Blade/Blade%20The%20Absolute%20Basics.md)
+    * [Blade Layouts Two Ways](/LFTS/Blade/Blade%20Layouts%20Two%20Ways.md)
