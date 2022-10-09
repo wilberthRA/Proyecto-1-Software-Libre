@@ -11,3 +11,5 @@
     * [Use the Filesystem Class to Read a Directory](/LFTS/The%20Basics/Use%20the%20Filesystem%20Class%20to%20Read%20a%20Directory.md)
     * [Find a Composer Package for Post Metadata](/LFTS/The%20Basics/Find%20a%20Composer%20Package%20for%20Post%20Metadata.md)
     * [Collection Sorting and Caching Refresher](/LFTS/The%20Basics/Collection%20Sorting%20and%20Caching%20Refresher.md)
+2. Blade
+    * [Blade: The Absolute Basics](/LFTS/Blade/Blade%20The%20Absolute%20Basics.md)
