@@ -1,4 +1,4 @@
-
+[< volver](../../README.md)
 # 3 Ways to Mitigate Mass Assignment Vulnerabilities.
 1. se agrega un nuevo post.
 2. se agrega un cuarto post de una manera mas abreviada **Post::create(['title' => 'My Fourth Post', 'excerp' => 'excerpt of post', 'body' => 'lorem'])**.

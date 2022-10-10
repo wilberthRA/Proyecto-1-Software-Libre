@@ -23,8 +23,10 @@
 
     * [Environment Files and Database Connections](/LFTS/Working%20With%20Databases/Environment%20Files%20and%20Database%20Connections.md)
     * [Migrations: The Absolute Basics](/LFTS/Working%20With%20Databases/Migrations%20The%20Absolute%20Basics.md)
-    * [Eloquent and the Active Record Pattern]
-    * [3 Ways to Mitigate Mass Assignment Vulnerabilities]
+    * [Eloquent and the Active Record Pattern](/LFTS/Working%20With%20Databases/Eloquent%20and%20the%20Active%20Record%20Pattern.md)
+    * [Make a Post Model and Migration](/LFTS/Working%20With%20Databases/Make%20a%20Post%20Model%20and%20Migration.md)
+    * [Eloquent Updates and HTML Escaping](/LFTS/Working%20With%20Databases/Eloquent%20Updates%20and%20HTML%20Escaping.md)
+    * [3 Ways to Mitigate Mass Assignment Vulnerabilities](/LFTS/Working%20With%20Databases/3%20Ways%20to%20Mitigate%20Mass%20Assignment%20Vulnerabilities.md)
     * [Route Model Binding]
     * [Your First Eloquent Relationship]
     * [Show All Posts Associated With a Category]
