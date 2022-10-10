@@ -1,4 +1,4 @@
-
+[< volver](../../README.md)
 # Turbo Boost With Factories.
 1. creamos un factory para category y post de la siguente manera:
 
@@ -20,3 +20,5 @@
         Post::factory(5)->create([
             'user_id' => $user->id
         ]);
+
+[< volver](../../README.md)
