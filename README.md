@@ -35,3 +35,5 @@
     * [Turbo Boost With Factories](/LFTS/Working%20With%20Databases/Turbo%20Boost%20With%20Factories.md)
     * [View All Posts By An Author](/LFTS/Working%20With%20Databases/View%20All%20Posts%20By%20An%20Author.md)
     * [Eager Load Relationships on an Existing Model](/LFTS/Working%20With%20Databases/Eager%20Load%20Relationships%20on%20an%20Existing%20Model.md)
+4. Integrate the Design.
+    * [Convert the HTML and CSS to Blade]
