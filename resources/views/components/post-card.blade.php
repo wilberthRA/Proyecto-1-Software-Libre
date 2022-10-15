@@ -29,11 +29,9 @@
                                 </div>
                             </header>
 
-                            <div class="text-sm mt-4">
+                            <div class="text-sm mt-4 space-y-4">
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                    {!! $post->excerpt !!}
                                 </p>
 
                                 <p class="mt-4">
