@@ -23,14 +23,14 @@ Route::get('/', function () {
         'posts' => Post::latest()->get(),
         'categories' => Category::all()
     ]);
-});
+})->name('home');
 
 Route::get('posts/{post:slug}', function (Post $post){
     return view('post', [
         'post' => $post
     ]);  
     
-});
+})->name('category');
 
 Route::get('categories/{category:slug}', function(Category $category){
     return view('posts' , [
