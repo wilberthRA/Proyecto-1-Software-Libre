@@ -38,3 +38,10 @@
 4. ## Integrate the Design.
     * [Convert the HTML and CSS to Blade](/LFTS/Integrate%20the%20Design/Convert%20the%20HTML%20and%20CSS%20to%20Blade.md)
     * [Blade Components and CSS Grids](/LFTS/Integrate%20the%20Design/Convert%20the%20HTML%20and%20CSS%20to%20Blade.md)
+    * [Convert the Blog Post Page](/LFTS/Integrate%20the%20Design/Convert%20the%20Blog%20Post%20Page.md)
+    * [A Small JavaScript Dropdown Detour](/LFTS/Integrate%20the%20Design/A%20Small%20JavaScript%20Dropdown%20Detour.md)
+    * [How to Extract a Dropdown Blade Component](/LFTS/Integrate%20the%20Design/How%20to%20Extract%20a%20Dropdown%20Blade%20Component.md)
+    * [Quick Tweaks and Clean-Up](/LFTS/Integrate%20the%20Design/Quick%20Tweaks%20and%20Clean-Up.md)
+5. ## Search.
+    * [Search (The Messy Way)](/LFTS/Search/Search%20(The%20Messy%20Way).md)
+    * [Search (The Cleaner Way)](/LFTS/Search/Search%20(The%20Cleaner%20Way).md)

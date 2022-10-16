@@ -19,7 +19,7 @@
                     <x-dropdown-item href="/" :active="request()->routeIs('home')">All</x-dropdown-item> 
                     @foreach ($categories as $category)
                         <x-dropdown-item 
-                            href="/categories/{{$category->slug}}"
+                            href="/?category=/{{$category->slug}}"
                             :active='request()->is("categories/{$category->slug}")'
                             >{{ucwords($category->name)}}</x-dropdown-item>       
                     
@@ -54,7 +54,7 @@
                     <form method="GET" action="#">
                         <input type="text" name="search" placeholder="Find something"
                                class="bg-transparent placeholder-black font-semibold text-sm"
-                               value="{{request('search')}}>
+                               value="{{request('search')}}">
                     </form>
                 </div>
             </div>
