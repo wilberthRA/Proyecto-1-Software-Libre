@@ -12,7 +12,7 @@ class PostsController extends Controller
     {
     
         return view('posts.index' , [
-            'posts' => Post::latest()->filter(request(['search', 'category']))->get(),
+            'posts' => Post::latest()->filter(request(['search', 'category', 'author']))->get(),
     ]);
     }
 
