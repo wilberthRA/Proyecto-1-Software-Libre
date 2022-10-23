@@ -7,15 +7,6 @@ use App\Http\Controllers\SessionsController;
 use App\Http\Controllers\PostCommentsController;
 use Illuminate\Support\Facades\Route;
 
-Route::get('ping', function () {
-    $mailchimp = new \MailchimpMarketing\ApiClient();
-    $mailchimp->setConfig([
-        'apikey'=> config('services.mailchimp.key'),
-        'server'=> 'us21'
-    ]);
-    $response= $mailchimp->lists->getAllLists();
-    ddd($response);
-});
 
 
 Route::get('/', [PostsController::class, 'index'])->name('home');
