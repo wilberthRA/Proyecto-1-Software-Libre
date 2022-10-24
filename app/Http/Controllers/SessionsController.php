@@ -23,15 +23,16 @@ class SessionsController extends Controller
                 'email' => 'Your provided credentials could not be verified.'
             ]);
         }
+
         session()->regenerate();
 
-        return redirect('/')->with('success', 'Welcome Back!'); 
+        return redirect('/')->with('success', 'Welcome Back!');
     }
 
     public function destroy()
     {
         auth()->logout();
 
-        return redirect('/')->with('success','Goodbye!');
+        return redirect('/')->with('success', 'Goodbye!');
     }
 }
