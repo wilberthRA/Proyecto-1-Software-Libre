@@ -60,3 +60,21 @@
     * [Login and Logout](/LFTS/Forms%20and%20Authentication/Login%20and%20Logout.md)
     * [Build the Log In Page](/LFTS/Forms%20and%20Authentication/Build%20the%20Log%20In%20Page.md)
     * [Laravel Breeze Quick Peek](/LFTS/Forms%20and%20Authentication/Laravel%20Breeze%20Quick%20Peek.md)
+
+10. ## Comments
+    * [Write the Markup for a Post Comment y Table Consistency and Foreign Key Constraints](/LFTS/Comments/Episodios%2062%20y%2063.md)
+    * [Make the Comments Section Dynamic](/LFTS/Comments/Make%20the%20Comments%20Section%20Dynamic.md)
+    * [Design the Comment Form](/LFTS/Comments/Design%20the%20Comment%20Form.md)
+    * [Activate the Comment Form](/LFTS/Comments/Activate%20the%20Comment%20Form.md)
+    * [Some Light Chapter Clean Up](/LFTS/Comments/Some%20Light%20Chapter%20Clean%20Up.md)
+11. ## Newsletters and APIs
+    * [Mailchimp API Tinkering, Make the Newsletter Form Work y Extract a Newsletter Service](/LFTS/Newletters%20and%20APIs/Episodios%2058-60.md)
+    * [Toy Chests and Contracts](/LFTS/Newletters%20and%20APIs/Toy%20Chests%20and%20Contracts.md)
+12. ## Admin Section
+    * [Limit Access to Only Admins y Create the Publish Post Form](/LFTS/Admin%20Section/Episodios%2062%20y%2063.md)
+    * [Validate and Store Post Thumbnails](/LFTS/Admin%20Section/Validate%20and%20Store%20Post%20Thumbnails.md)
+    * [Extract Form-Specific Blade Components](/LFTS/Admin%20Section/Extract%20Form-Specific%20Blade%20Components.md)
+    * [Extend the Admin Layout](/LFTS/Admin%20Section/Extend%20the%20Admin%20Layout.md)
+    * [Create a Form to Edit and Delete Posts](/LFTS/Admin%20Section/Create%20a%20Form%20to%20Edit%20and%20Delete%20Posts.md)
+    * [Group and Store Validation Logic](/LFTS/Admin%20Section/Group%20and%20Store%20Validation%20Logic.md)
+    * [All About Authorization](/LFTS/Admin%20Section/All%20About%20Authorization.md)
